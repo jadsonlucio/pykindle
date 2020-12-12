@@ -1,2 +1,2 @@
 # pykindle
-python package to convert file into .mobi, .epub
+python package to convert files into .mobi, .epub
